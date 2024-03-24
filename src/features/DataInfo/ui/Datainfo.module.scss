@@ -1,0 +1,50 @@
+.furnitureTitle{
+  font-family: Aeroport,sans-serif;
+  font-weight: 600;
+  font-size: 27px;
+}
+.furnitureCard{
+  display: flex;
+  align-items: center;
+  background-color: #ddd;
+  width: 260px;
+  height: 70px;
+  justify-content: space-between;
+  border-radius: 8px;
+  padding: 0 2.5%;
+  transition: all 400ms;
+  .ImgCon{
+    img {
+      overflow: hidden;
+
+      width: 70px;
+      height: 60px;
+      border-radius: 30%;
+      object-fit: cover;
+    }
+
+  }
+  &:hover {
+    cursor: pointer;
+    background-color: #706f6f;
+    box-shadow: 3px 3px 44px -4px rgba(89,0,255,1);
+    .furniturePriceTitle {
+      h2,h3{
+        color: #ffffff;
+      }
+    }
+  }
+  .furniturePriceTitle{
+    h2{
+      font-family: Arial,sans-serif;
+      font-weight: 500;
+      font-size: 20px;
+    }
+    h3{
+      font-family: Aeroport,sans-serif;
+      font-weight: 600;
+      font-size: 15px;
+      text-align: right;
+    }
+  }
+}

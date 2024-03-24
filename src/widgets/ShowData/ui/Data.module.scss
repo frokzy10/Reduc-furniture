@@ -1,0 +1,24 @@
+.furnitureContainer {
+  margin: 0 auto;
+  display: grid;
+  .furnitureTitle {
+    font-family: Aeroport, sans-serif;
+    font-weight: 600;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+  }
+
+  .furnitureList {
+    display: grid;
+    grid-template-columns: repeat(3, 0fr);
+    margin: 0 auto;
+    padding: 2%;
+    gap: 20px;
+
+    li {
+      list-style: none;
+    }
+  }
+}

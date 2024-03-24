@@ -1,0 +1,28 @@
+.header {
+  background-color: #282c34;
+
+  nav {
+    ul {
+      height: 75px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      li {
+        display: inline-block;
+        text-align: center;
+        color: #ffffff;
+        font-family: Arial, sans-serif;
+        cursor: pointer;
+        a{
+          text-decoration: none;
+          color: #ffffff;
+          transition: all 400ms;
+          &:hover{
+            color: #ff9300;
+          }
+        }
+      }
+    }
+  }
+}

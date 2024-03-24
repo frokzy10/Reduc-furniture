@@ -1,0 +1,109 @@
+{
+  "furniture": [
+    {
+      "id": 1,
+      "name": "Стол",
+      "description": "Деревянный",
+      "price": 200,
+      "images": "https://royal-craft.ru/wp-content/uploads/2018/12/stol-obedenniy-derevianniy.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Стул",
+      "description": "Пластиковый",
+      "price": 50,
+      "images": "https://www.voronezh.bestmebelshop.ru/upload/resize_cache/iblock/c10/1000_610_0/c1089205171fc0a1e59d0ad264b76b9e.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Шкаф",
+      "description": "Металлический",
+      "price": 400,
+      "images": "https://www.metmebel.ru/upload/iblock/621/62125cc5495d8c66747a47b37c7c10c0.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Диван",
+      "description": "Тканевый",
+      "price": 600,
+      "images": "https://ogogo.ru/images/products/61108/5109b43e9b79252f06d8da8a34a8bd5b.webp"
+    },
+    {
+      "id": 5,
+      "name": "Кресло",
+      "description": "Кожаный",
+      "price": 300,
+      "images": "https://m.pm.ru/global_images/goods/b53/c51/c51/9f0/1335051_preview.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Кровать",
+      "description": "Деревянная",
+      "price": 800,
+      "images": "https://pinskdrev.ru/web/catalogfiles/catalog/offers/IM_Alaska_6_Br_68_18-gr2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Стеллаж",
+      "description": "Деревянный",
+      "price": 250,
+      "images": "https://lofttfol.ru/wp-content/uploads/2023/03/stellazh-loft-ls29834.webp"
+    },
+    {
+      "id": 8,
+      "name": "Пуф",
+      "description": "Тканевый",
+      "price": 100,
+      "images": "https://cdn.27.ua/sc--media--prod/default/f5/a7/3a/f5a73aee-3cd3-47a3-8e28-aea5884ceb2a.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Столик",
+      "description": "Стеклянный",
+      "price": 150,
+      "images": "https://cdn.domdivanov65.ru/files/imgs/ig1111906/niixelpk-590x430.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Кухонный стол",
+      "description": "Деревянный",
+      "price": 300,
+      "images": "https://royal-craft.ru/wp-content/uploads/2018/12/bolshoi-obedenniy-stol-v-stile-loft.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Кухонный стул",
+      "description": "Деревянный",
+      "price": 70,
+      "images": "https://wadoo.ru/upload/iblock/999/999d90bb26912a05ca78334214c05fb1.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Комод",
+      "description": "Деревянный",
+      "price": 350,
+      "images": "https://ir.ozone.ru/s3/multimedia-g/6618668128.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Тумбочка",
+      "description": "Деревянная",
+      "price": 80,
+      "images": "https://camelia-mebel.com/wp-content/uploads/2018/11/astra.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Вешалка",
+      "description": "Металлическая",
+      "price": 40,
+      "images": "https://azavod.ru/catalog_files/imgs/product/6007/orig.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Письменный стол",
+      "description": "Деревянный",
+      "price": 200,
+      "images": "https://artmond.ru/upload/iblock/1b5/1yfttv800raorhwciuvxkzvutl401v7s/321214-5.webp"
+    }
+  ]
+}
